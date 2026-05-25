@@ -1,12 +1,12 @@
 {
-  "version": "dev",
+  "version": "0.3.0",
   "description": "Credential leak prevention wrapper for AI coding agents",
   "homepage": "https://github.com/DungNguyen0209/aibodyguard",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/DungNguyen0209/aibodyguard/releases/download/vdev/aibodyguard-windows-amd64.exe",
-      "hash": "b56ea168670cb39545bfd7b279976405f6ab01598b16f1400c22296ce69750ba",
+      "url": "https://github.com/DungNguyen0209/aibodyguard/releases/download/v0.3.0/aibodyguard-windows-amd64.exe",
+      "hash": "249e7612dcc15b7bf51a3decdb2863c0937c5c7025e938a1a072d5328f5d70af",
       "bin": [
         [
           "aibodyguard-windows-amd64.exe",
