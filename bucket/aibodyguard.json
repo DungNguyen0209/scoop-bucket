@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/DungNguyen0209/aibodyguard/releases/download/v0.5.1/aibodyguard-windows-amd64.exe",
-      "hash": "5b95f7d6034fb48a448017d2550f1d5b6b78714bc83177e48b63c76daddd0393",
+      "hash": "4b7a26e4bb5df39441f9eae5aaef523c4539fb946b397fd26bbab2c9e1c1be21",
       "bin": [
         [
           "aibodyguard-windows-amd64.exe",
